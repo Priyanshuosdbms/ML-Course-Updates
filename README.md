@@ -1,2 +1,2 @@
 # ML-Course-Updates
-Binder Colab
+https://mybinder.org/v2/gh/mrdbourke/zero-to-mastery-ml/master
